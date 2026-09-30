@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+info_about_local.json
