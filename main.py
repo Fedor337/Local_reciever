@@ -5,7 +5,7 @@ import requests
 #import yadisk
 
 
-YANDEX_TOKEN = "y0__wgBEI21mKkGGNuWAyCQxPGWGTDj7rHzB3pHlolkxsAPOI2abk0vZp5uu2JS"
+YANDEX_TOKEN = "YOUR_YANDEX_TOKEN"
 
 
 class IpifyIp:
