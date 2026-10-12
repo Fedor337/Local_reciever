@@ -1,11 +1,14 @@
 import json
-#import os
+
 
 import requests
-#import yadisk
 
 
+<<<<<<< HEAD
 YANDEX_TOKEN = "YOUR_YANDEX_TOKEN"
+=======
+YANDEX_TOKEN = "YANDEX_TOKEN"
+>>>>>>> 6cc9c87 (New2)
 
 
 class IpifyIp:
